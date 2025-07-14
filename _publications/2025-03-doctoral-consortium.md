@@ -8,7 +8,7 @@ date: 2025-03-01
 authors: <b>Annalisa Szymanski</b>
 venue: 30th International Conference on Intelligent User Interfaces Companion (IUI Companion 2025)
 paperurl: '/files/doctoral_consortium_IUI2025.pdf'
-acm_url: '/files/doctoral_consortium_IUI2025.pdf'
+acm_url: 'https://dl.acm.org/doi/abs/10.1145/3708557.3716146'
 
 ---
 
