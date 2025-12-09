@@ -13,7 +13,7 @@ redirect_from:
   }
 </style>
 
-I am a 4th year Ph.D Candidate studying in the [Human-Computer Interaction (HCI) Lab](https://hci.nd.edu/) at the University of Notre Dame advised by [Dr. Ronald Metoyer](https://engineering.nd.edu/faculty/ronald-metoyer/). 
+I am a 4th year Ph.D Candidate studying in the [Human-Computer Interaction (HCI) Lab](https://hci.nd.edu/) at the University of Notre Dame advised by [Dr. Ronald Metoyer](https://engineering.nd.edu/faculty/ronald-metoyer/)! 
 
 My research involves **HCI** and **Human-AI Collaboration** and examines how to integrate domain expertise into Large Language Model (LLM) evaluation for complex tasks. My goal is to develop methods to **incorporate domain experts into the LLM evaluation process**, specifically determining when and how to efficiently integrate their expertise while also addressing scalability challenges. I am focused on creating **evaluation frameworks** that leverage the strengths of different stakeholders, such as domain experts, end users, as well as LLMs themselves, to ensure that LLM outputs align with real-world needs and maintain trust and accountability. To date, I have examined the input of human expertise in complex domains such as nutrition, mental health, and pedagogy.
 
