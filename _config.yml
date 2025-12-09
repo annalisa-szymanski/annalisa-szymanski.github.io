@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Annalisa Szymanski"
 title_separator          : "-"
 name                     : &name "Annalisa Szymanski"
-description              : &description "personal description"
+description              : &description "Ph.D. candidate in Computer Science at the University of Notre Dame studying Human-Computer Interaction and Human-AI collaboration."
 url                      : https://annalisa-szymanski.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"academicpages/academicpages.github.io"
@@ -130,7 +130,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "AnnalisaSzy"
 facebook:
   username               :
   app_id                 :
@@ -139,10 +139,15 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
+  type                   : Person # Person or Organization (defaults to Person)
+  name                   : Annalisa Szymanski # If the user or organization name differs from the site's name
+  links: 
+      - "https://annalisa-szymanski.github.io/"
+      - "https://scholar.google.com/citations?user=AvwLCfQAAAAJ"
+      - "https://www.linkedin.com/in/annalisaszymanski"
+      - "https://x.com/AnnalisaSzy"
+      - "https://orcid.org/0009-0009-5472-282X"
+# An array of links to social media profiles
 
 # Analytics
 analytics:
